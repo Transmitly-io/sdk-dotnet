@@ -5,6 +5,9 @@ Dependency-free .NET 8 client for the Transmitly API.
 ```bash
 # from the platform repository
 dotnet add reference sdk/dotnet/Transmitly/Transmitly.csproj
+
+# once published
+# dotnet add package Transmitly.Client
 ```
 
 ```csharp
